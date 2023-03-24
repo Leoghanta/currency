@@ -48,7 +48,7 @@ namespace currency
 
                 Console.WriteLine(values.ContainsKey("GBP"));
 
-
+				 
             } catch (Exception ex)
 			{
 				Console.WriteLine(ex.ToString());
